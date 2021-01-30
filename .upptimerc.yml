@@ -4,12 +4,10 @@ repo: ganttproject-status # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
   - name: GanttProject Cloud
     url: https://ganttproject.cloud
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
+  - name: GanttProject Desktop web site
+    url: https://www.ganttproject.biz
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
@@ -18,7 +16,7 @@ status-website:
   # baseUrl: /upptime
   logoUrl: https://pbs.twimg.com/profile_images/1308128634687959040/AIKumOpj_400x400.jpg
   name: GanttProject Status
-  introTitle: "GanttProject Cloud Monitoring"
+  introTitle: "GanttProject Monitoring"
   introMessage: "This page shows the basic monitoring charts, ongoing incidents, if any, and the incident history"
   navbar:
     - title: Status
