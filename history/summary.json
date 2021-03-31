@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 130,
-    "timeDay": 86,
-    "timeWeek": 116,
+    "timeDay": 109,
+    "timeWeek": 109,
     "timeMonth": 114,
     "timeYear": 130,
-    "dailyMinutesDown": {
-      "2021-01-30": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "GanttProject Desktop web site",
@@ -30,13 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 166,
-    "timeDay": 167,
-    "timeWeek": 152,
-    "timeMonth": 168,
-    "timeYear": 166,
-    "dailyMinutesDown": {
-      "2021-01-30": 3
-    }
+    "time": 167,
+    "timeDay": 200,
+    "timeWeek": 153,
+    "timeMonth": 169,
+    "timeYear": 167,
+    "dailyMinutesDown": {}
   }
 ]
