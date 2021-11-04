@@ -22,7 +22,7 @@
     "url": "https://www.ganttproject.biz",
     "icon": "https://favicons.githubusercontent.com/www.ganttproject.biz",
     "slug": "gantt-project-desktop-web-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +33,8 @@
     "timeWeek": 107,
     "timeMonth": 116,
     "timeYear": 139,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-04": 0
+    }
   }
 ]
