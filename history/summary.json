@@ -22,19 +22,19 @@
     "url": "https://www.ganttproject.biz",
     "icon": "https://favicons.githubusercontent.com/www.ganttproject.biz",
     "slug": "gantt-project-desktop-web-site",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.48%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
     "time": 139,
     "timeDay": 126,
-    "timeWeek": 107,
+    "timeWeek": 109,
     "timeMonth": 116,
     "timeYear": 139,
     "dailyMinutesDown": {
-      "2021-11-04": 0
+      "2021-11-04": 22
     }
   }
 ]
