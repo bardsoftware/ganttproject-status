@@ -4,7 +4,7 @@
     "url": "https://ganttproject.cloud",
     "icon": "https://icons.duckduckgo.com/ip3/ganttproject.cloud.ico",
     "slug": "gantt-project-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 127,
     "timeMonth": 131,
     "timeYear": 157,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-28": 0
+    }
   },
   {
     "name": "GanttProject Desktop web site",
