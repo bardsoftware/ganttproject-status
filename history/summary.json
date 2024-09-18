@@ -22,17 +22,19 @@
     "url": "https://www.ganttproject.biz",
     "icon": "https://icons.duckduckgo.com/ip3/www.ganttproject.biz.ico",
     "slug": "gantt-project-desktop-web-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 126,
-    "timeDay": 131,
-    "timeWeek": 132,
-    "timeMonth": 135,
-    "timeYear": 126,
-    "dailyMinutesDown": {}
+    "time": 167,
+    "timeDay": 10322,
+    "timeWeek": 2680,
+    "timeMonth": 772,
+    "timeYear": 182,
+    "dailyMinutesDown": {
+      "2024-09-18": 0
+    }
   }
 ]
