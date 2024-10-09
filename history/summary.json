@@ -4,19 +4,19 @@
     "url": "https://ganttproject.cloud",
     "icon": "https://icons.duckduckgo.com/ip3/ganttproject.cloud.ico",
     "slug": "gantt-project-cloud",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 169,
-    "timeDay": 121,
-    "timeWeek": 170,
-    "timeMonth": 177,
+    "timeDay": 129,
+    "timeWeek": 157,
+    "timeMonth": 176,
     "timeYear": 177,
     "dailyMinutesDown": {
-      "2024-10-09": 0
+      "2024-10-09": 3
     }
   },
   {
@@ -31,9 +31,9 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 167,
-    "timeDay": 142,
+    "timeDay": 136,
     "timeWeek": 131,
-    "timeMonth": 771,
+    "timeMonth": 772,
     "timeYear": 183,
     "dailyMinutesDown": {
       "2024-09-18": 30
