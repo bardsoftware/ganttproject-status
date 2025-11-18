@@ -1,7 +1,7 @@
 url: https://ganttproject.cloud
-status: up
-code: 200
-responseTime: 152
-lastUpdated: 2025-11-17T23:02:50.617Z
+status: down
+code: 500
+responseTime: 88
+lastUpdated: 2025-11-18T11:31:14.100Z
 startTime: 2021-01-30T14:50:57.000Z
 generator: Upptime <https://github.com/upptime/upptime>
